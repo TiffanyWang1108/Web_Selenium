@@ -1,0 +1,7 @@
+[32mINFO    [0m simple_example:home_page.py:22 进入商品类目
+[32mINFO    [0m simple_example:category_list_page.py:25 类目列表页面：点击添加
+[32mINFO    [0m simple_example:category_create_page.py:23 创建类目页面：创建类目
+[32mINFO    [0m simple_example:web_util.py:26 第1次点击成功
+[32mINFO    [0m simple_example:category_list_page.py:35 类目列表页面：获取操作结果
+[32mINFO    [0m simple_example:category_list_page.py:40 冒泡消息：创建成功
+[32mINFO    [0m simple_example:category_list_page.py:45 对指定类目进行删除

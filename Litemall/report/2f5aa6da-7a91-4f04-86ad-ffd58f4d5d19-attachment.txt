@@ -1,0 +1,1 @@
+[32mINFO    [0m simple_example:TestLitemall.py:79 第1次点击成功

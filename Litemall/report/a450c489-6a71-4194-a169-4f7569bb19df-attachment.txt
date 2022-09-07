@@ -1,0 +1,6 @@
+2022-07-25 11:31:07,557 - simple_example - INFO - 进入商品类目
+2022-07-25 11:31:08,036 - simple_example - INFO - 类目列表页面：点击添加
+2022-07-25 11:31:08,124 - simple_example - INFO - 创建类目页面：创建类目
+2022-07-25 11:31:08,499 - simple_example - INFO - 第1次点击成功
+2022-07-25 11:31:08,505 - simple_example - INFO - 对指定类目进行删除
+2022-07-25 11:31:09,473 - simple_example - INFO - 冒泡消息：删除成功
